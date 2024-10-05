@@ -49,7 +49,7 @@ pip install tkinter huggingface_hub PyQt5
 
 4. Using the application:
    - In the "Download Hugging Face Model" section:
-     - Enter the Model ID (e.g., "gpt2")
+     - Enter the Model ID (e.g., "meta-llama/Llama-3.2-1B")
      - Choose a save directory
      - Click "Download Model"
    - In the "Convert to GGUF" section:
