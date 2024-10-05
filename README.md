@@ -36,7 +36,7 @@ pip install tkinter huggingface_hub PyQt5
 1. Clone this repository:
    ```bash
    git clone https://github.com/LMLK-seal/HuggingGGUF.git
-   cd huggingface-model-converter
+   cd HuggingGGUF
    ```
    or
 
