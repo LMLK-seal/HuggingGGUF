@@ -33,7 +33,7 @@ You will also need to install the `llama.cpp` repository and ensure that the `co
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/huggingface-model-converter.git
+   git clone https://github.com/LMLK-Seal/Main.git
    cd huggingface-model-converter
    ```
    or
@@ -42,7 +42,7 @@ You will also need to install the `llama.cpp` repository and ensure that the `co
 
 3. Run the application:
    ```bash
-   python combine.py
+   python Main.py
    ```
 
 4. Using the application:
