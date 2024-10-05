@@ -33,7 +33,7 @@ You will also need to install the `llama.cpp` repository and ensure that the `co
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/LMLK-Seal/Main.git
+   git clone https://github.com/LMLK-seal/HuggingGGUF.git
    cd huggingface-model-converter
    ```
    or
