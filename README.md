@@ -29,7 +29,7 @@ Install the required packages using pip:
 pip install tkinter huggingface_hub PyQt5
 ```
 
-# You will also need to clone the `llama.cpp` repository and ensure that the `convert_hf_to_gguf.py` script is accessible.
+# You will also need to clone the ([`llama.cpp` repository](https://github.com/ggml-org/llama.cpp)) and ensure that the `convert_hf_to_gguf.py` script is accessible.
 
 ## Usage
 
